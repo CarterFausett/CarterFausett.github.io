@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S in Computer Science, Weber State University, 2025 (Expected)
+* A.A.S in Computer Science, Weber State University, 2023
+* Certificate of Provifiency in Programming Basics, Weber State University, 2023
+* A.A.S in General Studies, Weber State University, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Assisstant Project Manager
+  * CSU Commercial Service Unlimited
+  * Duties includes: Managing several Maverik fuel-related projects including UST marking and diesel island bucket rings
+  * Supervisor: Kevin Garner & Rock Garner
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Assisstant Service Manager
+  * CSU Commercial Service Unlimited
+  * Duties included: Managing a team of 6 fellow Fuel Service Technicians
+  * Supervisor: Rock Garner
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Fuel Service Technician
+  * CSU Commercial Service Unlimited
+  * Duties included: Troubleshooting fuel & payment related problems for Bennett, Dresser Wayne, and Gilbarco dispensers
+  * Supervisor: Rock Garner
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Technical Skills**
+* Languages
+  * C#
+  * SQL (MySQL, MS Server SQL)
+  * HTML & CSS
+  * Java
+  * Javascript
+  * C
+  * C++
+  * MongoDB
+* Programs & Other Applications
+  * Microsoft Word
+  * Microsoft Excel
+  * Microsoft Power Point
+  * Microsoft Access
+  * Github
+  * SQL Server Management Studio
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+* Member of almost 100 discord servers
