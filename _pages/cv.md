@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S in Computer Science, Weber State University, 2025 (Expected)
+* B.S in Computer Science, Weber State University, 2025 (expected)
 * A.A.S in Computer Science, Weber State University, 2023
 * C.P in Programming Basics, Weber State University, 2023
 * A.A.S in General Studies, Weber State University, 2021
