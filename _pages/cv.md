@@ -53,7 +53,3 @@ Skills
   * Github
   * SQL Server Management Studio
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-* Member of almost 100 discord servers
