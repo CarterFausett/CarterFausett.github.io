@@ -7,3 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+Hello there
+======
+
+My name is Carter Fausett.
