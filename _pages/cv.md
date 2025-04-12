@@ -20,17 +20,17 @@ Work experience
 ======
 * Summer 2024: Assisstant Project Manager
   * CSU Commercial Service Unlimited
-  * Duties includes: Managing several Maverik fuel-related projects including UST marking and diesel island bucket rings
+  * Duties includes: Managing several Maverik fuel-related projects including UST marking and diesel island bucket rings, serving as support for other fuel service techs
   * Supervisor: Kevin Garner & Rock Garner
 
 * Summer 2023: Assisstant Service Manager
   * CSU Commercial Service Unlimited
-  * Duties included: Managing a team of 6 fellow Fuel Service Technicians
+  * Duties included: Managing a team of 6 fellow fuel service technicians, serving as support for other fuel service techs
   * Supervisor: Rock Garner
 
 * Summer 2021: Fuel Service Technician
   * CSU Commercial Service Unlimited
-  * Duties included: Troubleshooting fuel & payment related problems for Bennett, Dresser Wayne, and Gilbarco dispensers
+  * Duties included: Troubleshooting and repairing fuel & payment related problems for Bennett, Dresser Wayne, and Gilbarco dispensers, troubleshooting & repairing UST pump systems
   * Supervisor: Rock Garner
   
 Skills
