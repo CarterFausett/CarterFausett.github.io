@@ -1,6 +1,6 @@
 ---
 title: "Portfolio - CStore Management App"
-excerpt: "Side project for UST marking project.<br/><img src='/images/Portfolio3.jpg'>"
+excerpt: "Side project for UST marking project<br/><img src='/images/Portfolio3.jpg'>"
 collection: portfolio
 ---
 
