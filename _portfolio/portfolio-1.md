@@ -1,6 +1,6 @@
 ---
 title: "Portfolio - Learning Management System Web App"
-excerpt: "Group project for Software Engineering II<br/><img src='/images/500x300.png'>"
+excerpt: "Group project for Software Engineering II<br/><img src='/images/Portfolio1.jpg'>"
 collection: portfolio
 ---
 
