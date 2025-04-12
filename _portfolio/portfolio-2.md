@@ -1,6 +1,6 @@
 ---
 title: "Portfolio - Invoice Management System"
-excerpt: "Group project for .NET Development<br/><img src='/images/500x300.png'>"
+excerpt: "Group project for .NET Development<br/><img src='/images/Portfolio2.jpg'>"
 collection: portfolio
 ---
 
